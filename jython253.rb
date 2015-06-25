@@ -1,4 +1,4 @@
-class Jython < Formula
+class Jython253 < Formula
   desc "Python implementation written in Java (successor to JPython)"
   homepage "http://www.jython.org"
   url "https://search.maven.org/remotecontent?filepath=org/python/jython-installer/2.5.3/jython-installer-2.5.3.jar"
